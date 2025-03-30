@@ -7,4 +7,4 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@4.2.2
             - name: Python Syntax Checker
-              uses: cclaus/Find-Python-syntax-errors-action@v1.0.0
+              uses: cclauss/Find-Python-syntax-errors-action@v0.2.0
